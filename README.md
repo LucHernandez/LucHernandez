@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NillNakib my goal is currently to be a software engineer at Arturia
+- 🌱 I started my informatic journey in 2020 and I'm planning to go as far as I need to reach my goal
+- 💞️ I’m also looking forward to developp games without game engines for the challenge
