@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @LucHernandez my goal is currently to be a software engineer at Arturia
 - 🌱 I started my programming journey in 2017 and I'm planning to go as far as I need to reach my goal
-- 💞️ I’m also looking forward to developp games without game engines for the challenge
